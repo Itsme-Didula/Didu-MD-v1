@@ -16,5 +16,5 @@ ANTI_LINK: process.env.ANTI_LINK || 'false' ,
 ANTI_BOT: process.env.ANTI_BOT || 'false',
 ALIVE: process.env.ALIVE || `default`,
 FOOTER: process.env.FOOTER ||  '©🪄ᴅɪᴅᴜ ᴍᴅ📡',
-LOGO: process.env.LOGO || `https://github.com/vihangayt0/ZeroTwo-Uploads/blob/main/ZERO-TWO.png?raw=true` 
+LOGO: process.env.LOGO || `https://github.com/Itsme-Didula/Didu-MD-v1/blob/main/IMG-20230901-WA0000.jpg?raw=true` 
 };
